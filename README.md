@@ -1,10 +1,7 @@
-# 2DPlatform-Unity
-2D platform project made in unity for a class project.
-I made all the sprites and visual assets myself so those are not uploaded to github
+# Juego para Android desarrollado en Unity
+Juego de plataforma 2D para Android elaborado para un proyecto de clase.
+Solo subido los scripts y scenes.
 
 # About The game
 
-It's a classic 2D platform in which the player have to collect items to gain points. The game have 3 different levels and 3 lives to complete them, if the player lose the 3 lives, they will have to start over again.
-If the player finish the game or dies, they will have the option to write a name and save their points in a database (Firebase) and then they can see the top 5 players on a leaderboard.
-
-
+Es un juego clásico 2D donde el jugador deberá recolectar objetos para ganar puntos. El juego tiene 3 diferentes niveles y 3 vidas para completarlos, si el jugador pierde las 3 vidas, deberá volver a empezar de nuevo. Si el jugador termina el juego o pierde las tres vidas, tendrá la opción de escribir su nombre y guardar sus puntos en una base de datos (Gestionada con FireBase). Al final del juego se pueden visualizar los top 5 jugadores en el leaderboard.
